@@ -1,4 +1,4 @@
-In order to execute [torchskeleton](https://github.com/wbaek/torchskeleton) training, activate the environment and run the following command:
+In order to execute [torchskeleton](https://github.com/wbaek/torchskeleton) training, create an environment with the packages in `requirements.txt` and then run the following command:
 
     python bin/dawnbench/cifar10.py --seed 0xC0FFEE --download > log_dawnbench_cifar10.tsv
 
